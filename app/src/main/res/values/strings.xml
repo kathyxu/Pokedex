@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mewdex</string>
+    <string name="prompt">Select type to filter</string>
+</resources>
