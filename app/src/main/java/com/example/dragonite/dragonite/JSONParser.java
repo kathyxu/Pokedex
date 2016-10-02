@@ -228,7 +228,7 @@ public class JSONParser extends AsyncTask{
 
         Log.d("debug", "*******************************************************************************************************************************");
 
-        //volleyCallback.onSuccess(newPokemon.getId());
+        volleyCallback.onSuccess(newPokemon.getId());
     }
 
 
